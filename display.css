@@ -1,0 +1,17 @@
+.box{
+    background-color: blueviolet;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.box2{
+    background-color: rgb(195, 153, 26);
+}
+
+.box3{
+    background-color: rgb(244, 21, 62);
+}
+
+   
